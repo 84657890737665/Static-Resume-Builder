@@ -4,9 +4,6 @@ body {
     text-align:center;
     font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
     font-size: 18px;
-    box-shadow: 5px 5px 5px rgba(0, 0, 0, 0.5);
-    margin: 30;
-    padding: 200px;
 }
 
 img {
