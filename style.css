@@ -1,0 +1,43 @@
+body {
+    background-color: rgb(63, 75, 82);
+    color: white;
+    text-align:center;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 18px;
+    box-shadow: 5px 5px 5px rgba(0, 0, 0, 0.5);
+    box-sizing:content-box; 
+    margin: 30;
+    padding: 200px;
+}
+
+img {
+    width: 150px;
+    height: 120px;
+}
+
+header {
+    background-color: rgb(219, 208, 208);
+    color: rgb(30, 73, 83);
+    padding: 5px;
+    text-align: center;
+    margin-bottom: 10px;
+    font-family: 'Courier New', Courier, monospace;
+}
+
+h1 {
+    font-size: 30px;
+    margin-bottom: 10px;
+    text-decoration: underline;
+    text-align: center;
+    font-family: 'Courier New', Courier, monospace;
+}
+
+footer {
+    background-color: rgb(245, 245, 245);
+    color: rgb(48, 109, 128);
+    text-align: center;
+    padding: 5px;
+    font-size: 15px;
+    margin-top: 20px;
+    font-family: 'Courier New', Courier, monospace;
+}
